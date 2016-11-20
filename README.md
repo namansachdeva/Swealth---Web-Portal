@@ -1,3 +1,7 @@
+This is the web portal version of Swealth.
+Also see, Swealth Mobile App 
+  https://github.com/HemantGTX950/SWealth
+
 # README
 
 This README would normally document whatever steps are necessary to get the
